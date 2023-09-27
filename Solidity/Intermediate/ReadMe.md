@@ -1,5 +1,5 @@
-# Token Solidity Contract
-This Solidity contract, named "Token," represents a basic token smart contract for managing a token named "Becky" with the symbol "BEE." It includes functionalities for minting, transferring, and burning tokens. This README provides an overview of the contract and instructions on how to deploy and interact with it using Remix, an online Solidity IDE.
+# ERC Token Solidity Contract
+This Solidity contract, named "Token," represents a basic token smart contract for managing a token named "Becky" with the symbol "BEE." using the ERC20 Interface Standard. It includes functionalities for minting, transferring, and burning tokens. This README provides an overview of the contract and instructions on how to deploy and interact with it using Remix, an online Solidity IDE.
 
 ## Description
 The "Token" contract is a simple example of an Ethereum token contract. It contains the following key features:
