@@ -4,6 +4,7 @@ This Cadence contract, named "StellarUniversity," defines a simple smart contrac
 
 ## Description
 
+
 The "StellarUniversity" contract consists of the following components:
 
 ### Course Struct
